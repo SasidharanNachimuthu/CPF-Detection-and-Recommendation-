@@ -41,6 +41,10 @@ This project is a proof of concept and should not be used for real farming decis
    ```sh
    pip install -r requirements.txt
    ```
+5. Replace the OpenWeatherMap API Key in config.py:
+   ```sh
+   weather_api_key = "<API_KEY>"
+   ```
 5. Run the application:
    ```sh
    python app.py
