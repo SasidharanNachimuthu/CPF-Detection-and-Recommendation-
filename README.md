@@ -26,11 +26,11 @@ This project is a proof of concept and should not be used for real farming decis
 ## Running Locally 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/SasidharanNachimuthu/Harvestify.git
+   git clone https://github.com/SasidharanNachimuthu/crop-fertilizer-recommendation-and-plant-disease-detection.git
    ```
 2. Navigate to the project folder:
    ```sh
-   cd Harvestify
+   cd crop-fertilizer-recommendation-and-plant-disease-detection
    ```
 3. Create and activate a virtual environment:
    ```sh
